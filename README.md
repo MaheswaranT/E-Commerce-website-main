@@ -21,8 +21,3 @@ Welcome to our E-Commerce Website! Here, users can register, log in, browse prod
 - **🛒 Browse Products**: View products categorized by type.
 - **🛍️ Add to Cart/Wishlist**: Add desired products to your cart or wishlist.
 
-
-💬 Acknowledgments
-- Thanks to the open-source community for providing great tools and resources.
-- Special thanks to [Insert any collaborators or contributors].
-
